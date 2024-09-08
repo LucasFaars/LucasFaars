@@ -11,10 +11,14 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFaars&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="LucasFaars" /></p>
 <hr/>
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=LucasFaars&show_icons=true&locale=pt-br&theme=dark" alt="LucasFaars" /></td>
-    <td><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFaars&locale=pt-br&theme=dark" alt="LucasFaars" /></td>
+    <td style="border: none; padding: 0; width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=LucasFaars&show_icons=true&locale=pt-br&theme=dark" alt="LucasFaars" style="width: 100%;"/>
+    </td>
+    <td style="border: none; padding: 0; width: 50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFaars&locale=pt-br&theme=dark" alt="LucasFaars" style="width: 100%;"/>
+    </td>
   </tr>
 </table>
 
